@@ -4,11 +4,7 @@
 	<classpathentry kind="src" path="emf-gen"/>
 	<classpathentry kind="src" path="src-gen"/>
 	<classpathentry kind="src" path="xtend-gen"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
-		<attributes>
-			<attribute name="module" value="true"/>
-		</attributes>
-	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
 	<classpathentry kind="lib" path="lib/org.eclipse.xtext.ecore_2.25.0.v20210301-0909.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
